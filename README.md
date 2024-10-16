@@ -14,3 +14,19 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+# Hi, I'm Audrian
+
+### Hobies 
+- Viajar
+- Jogos
+- Ler
+
+### Formação
+- Analise e Desenvolvimento de Sistemas (andamento)
+- Desenvolviemtno web full stack Growdev (andamento)
+
+### Linguagens
+![Ícone do JS](https://img.icons8.com/?size=80&id=108784&format=png&color=000000)
+
+### Contatos
+[![Ícone Linkedin](https://img.icons8.com/?size=80&id=xuvGCOXi8Wyg&format=png&color=000000)](https://www.linkedin.com/in/audrian-kortz/)
